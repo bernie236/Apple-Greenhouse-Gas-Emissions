@@ -11,3 +11,10 @@ A breakdown of Apple's greenhouse gas emissions from 2015 to 2022 as they aim to
 ## Key Insights from the Dataset
 1. Between 2015-2022, Apple has had an average decrease in carbon dioxide emissions per year by 8.43%.
 2. Apple’s green initiatives have not only led to a decrease in emissions but have also resulted in an average 8.2% year over year increase in revenue and an average 24.59% yearly increase in market capitalization.
+3. Manufacturing (~74%), product use (~18%), and product transportation (~6%) makes up ~98% of Apple’s emissions. 
+
+### Links
+* [Full Write-Up]()
+
+### Files
+* [Workout Data.copy.csv](https://github.com/bernie236/Fitness-Goals/blob/main/Workout%20Data.copy.csv) is the raw data acquired from exporting the data from my Apple Fitness app.
