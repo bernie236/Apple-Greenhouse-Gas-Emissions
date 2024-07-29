@@ -14,7 +14,7 @@ A breakdown of Apple's greenhouse gas emissions from 2015 to 2022 as they aim to
 3. Manufacturing (~74%), product use (~18%), and product transportation (~6%) makes up ~98% of Apple’s emissions. 
 
 ### Links
-* [Full Write-Up]()
+* [Full Write-Up](https://github.com/bernie236/Apple-Greenhouse-Gas-Emissions/blob/main/Apple%20GG%20Emissions%20Write-Up.pdf)
 
 ### Files
 * [Workout Data.copy.csv](https://github.com/bernie236/Fitness-Goals/blob/main/Workout%20Data.copy.csv) is the raw data acquired from exporting the data from my Apple Fitness app.
