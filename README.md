@@ -17,4 +17,4 @@ A breakdown of Apple's greenhouse gas emissions from 2015 to 2022 as they aim to
 * [Full Write-Up](https://github.com/bernie236/Apple-Greenhouse-Gas-Emissions/blob/main/Apple%20GG%20Emissions%20Write-Up.pdf)
 
 ### Files
-* [Workout Data.copy.csv](https://github.com/bernie236/Fitness-Goals/blob/main/Workout%20Data.copy.csv) is the raw data acquired from exporting the data from my Apple Fitness app.
+* [Apple GG Emissions Excel Dashboard](https://github.com/bernie236/Apple-Greenhouse-Gas-Emissions/blob/main/Apple%20Carbon%20Emissions%202015-2022%20(project).xlsx) is the excel workbook containing the Excel dashboard and dataset for this project. After following the file link, click on "View Raw" to download excel workbook.
